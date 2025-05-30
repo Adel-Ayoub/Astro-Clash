@@ -1,0 +1,22 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/play">  <file alias="main.qml">main.qml</file>
+        <file alias="Bullet.qml">Bullet.qml</file> <file alias="Enemy.qml">Enemy.qml</file>   </qresource>
+
+    <qresource prefix="/"> <file alias="fonts/Doto-ExtraBold.ttf">../assets/Doto-ExtraBold.ttf</file>
+        <file alias="fonts/Doto-Bold.ttf">../assets/Doto-Bold.ttf</file>
+
+        <file alias="player/rocket.png">../assets/rocket.png</file>
+        <file alias="player/thruster.gif">../assets/thruster.gif</file>
+
+        <file alias="enemy/enemy1.png">../assets/enemy1.png</file>
+        <file alias="enemy/enemy2.png">../assets/enemy2.png</file>
+        <file alias="enemy/enemy3.png">../assets/enemy3.png</file>
+        <file alias="enemy/enemy4.png">../assets/enemy4.png</file>
+        <file alias="enemy/enemy5.png">../assets/enemy5.png</file>
+
+        <file alias="bullet/bullet.png">../assets/bullet.png</file>
+
+        <file alias="previews/gameOverPreview.png">../assets/gameOverPreview.png</file>
+        <file alias="previews/gamePreview.png">../assets/gamePreview.png</file>
+    </qresource>
+</RCC>

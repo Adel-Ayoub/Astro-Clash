@@ -1,0 +1,25 @@
+# Build directories
+build/
+*.pro.user
+*.user
+
+# Qt generated files
+*.moc
+moc_*
+qrc_*
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Executables
+play
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
