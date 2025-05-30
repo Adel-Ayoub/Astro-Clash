@@ -9,7 +9,7 @@ Astro Clash is a retro arcade-style game built using **Qt C++ and QML**, designe
 You can clone and build the project locally to play the complete game and explore the codebase.
 
 ```bash
-git clone https://github.com/kaustuvpokharel/Astro-Clash.git
+git clone https://github.com/Adel-Ayoub/Astro-Clash.git
 cd Astro-Clash
 ```
 
@@ -105,7 +105,3 @@ The project demonstrates several important programming concepts:
 ## Screenshots
 
 > W.I.P
-
-## More Information about Astro Clash
-
-For additional documentation or to contribute to the project, visit the project repository. The game serves as an excellent introduction to Qt development and game programming concepts for developers of all skill levels.
